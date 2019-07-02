@@ -1,0 +1,7 @@
+.DS_Store
+.docsets
+
+cabal.project.local
+dist
+dist-newstyle
+.ghc.environment.*
